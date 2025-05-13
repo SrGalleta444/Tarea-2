@@ -8,9 +8,9 @@ int main() {
     int negativos = 0;
     int nulos = 0;
 
-    printf("Introduce 10 números:\n");
+    printf("Introduce 100 números:\n");
 
-    for(i = 0; i < 10; i++) {
+    for(i = 0; i < 100; i++) {
         printf("%d ", i + 1);
         scanf("%d", &num);
 
